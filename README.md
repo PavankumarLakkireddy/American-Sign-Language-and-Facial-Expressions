@@ -3,8 +3,6 @@
 ## Overview
 This project implements a deep learning-based system for real-time American Sign Language (ASL) and facial expression recognition. It utilizes state-of-the-art object detection models, including YOLOv9, YOLOv8, Detectron2 (Faster R-CNN), and DETR (DEtection TRansformer), to accurately detect and interpret ASL gestures and facial expressions in video streams.
 
-## Author
-- Ravi Teja Vempati
 
 ## Abstract
 Our study proposes a novel approach for ASL and facial expression detection using deep learning models. We evaluated the performance of YOLOv9, YOLOv8, Detectron2 (Faster R-CNN), and DETR on a manually annotated dataset. The results showed that YOLOv9 performed better in accurately detecting ASL signs and facial expressions in real-time video streams.
